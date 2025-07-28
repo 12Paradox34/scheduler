@@ -1,16 +1,31 @@
-# sheduler
+# 📆 Scheduler App
 
-A new Flutter project.
+A sleek and intuitive Flutter-based scheduling application designed for efficient task and project management. Built with modern UI practices and clean architecture, Scheduler helps users plan their day, manage subprojects, track tasks, and organize their workflow seamlessly.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 **Home** Dashboard with quick navigation  
+- 🧩 **Subproject Management** for better organization  
+- ✅ **Task Cards** with color-coded tags and icons  
+- 📅 **Custom Mini Calendar** with interactive date selection  
+- 🕒 **Schedule Screen** with date-wise task overview  
+- 📌 **Query Section** for quick notes or FAQs  
+- 💡 Beautiful UI with consistent `Urbanist` typography  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+---
+
+## 🔧 Tech Stack
+
+- **Flutter** & **Dart**  
+- **State Management:** Stateful Widgets  
+- **Styling:** Custom Theme & Typography (`Urbanist`)  
+- **Navigation:** BottomNavigationBar  
+- **Date Handling:** `intl` package  
+
+
+
